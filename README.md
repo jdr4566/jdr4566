@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jdr4566
 - 👀 I’m interested in ... C++ Programming & .Lua Language Programming
-- 🌱 I’m currently learning ... C/C++
 - 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... https://replit.com/@jd4566   or Discord : Boogies#6012
 
