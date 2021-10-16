@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<iframe src="https://giphy.com/embed/q6RoNkLlFNjaw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-q6RoNkLlFNjaw">via GIPHY</a></p>
+
