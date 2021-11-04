@@ -2,7 +2,7 @@
 - Slowly changing the world one line of code at a time!
 - 👀 I’m interested in ... C++ Programming & .Lua Language Programming
 - 💞️ I’m looking to collaborate on ... Anything 
-- 📫 How to reach me ... https://replit.com/@jd4566   or Discord : Boogies#6012
+
 
 
 <!---
