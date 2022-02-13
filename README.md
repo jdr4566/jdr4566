@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdr4566
 - Slowly changing the world one line of code at a time!
-- 👀 I’m interested in ... C++ Programming & .Lua Language Programming
+- 👀 I’m interested in ... C++ / C# / Python / SQL 
 - 💞️ I’m looking to collaborate on ... Anything 
 
 
