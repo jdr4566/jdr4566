@@ -3,6 +3,7 @@
 - 👀 I’m interested in ... C++ / C# / Python / SQL 
 - 💞️ I’m looking to collaborate on ... Anything 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdr4566&theme=blue-green)
 
 
 <!---
