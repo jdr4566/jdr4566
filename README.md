@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Anything 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdr4566&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jdr4566&show_icons=true)
 
 
 <!---
